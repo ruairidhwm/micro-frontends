@@ -1,0 +1,13 @@
+{
+    "include": ["src/**/*.ts", "tests/**/*.ts"],
+    "compilerOptions": {
+      "outDir": "dist",
+      "noImplicitAny": true,
+      "module": "esnext",
+      "moduleResolution": "node",
+      "jsx": "react",
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "skipLibCheck": true,
+    }
+  }
