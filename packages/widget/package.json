@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/ruairidhwm/micro-frontends/issues"
   },
-  "homepage": "https://ruairidh.dev",
+  "homepage": "https://ruairidh.dev/introduction-to-micro-frontends",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
