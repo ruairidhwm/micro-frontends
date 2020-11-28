@@ -1,4 +1,4 @@
-!['Logo banner'](https://i.imgur.com/TZSfKrp.png)
+!['Logo banner'](https://i.imgur.com/svhaI45.png)
 
 # Introduction to micro-frontends
 
